@@ -91,8 +91,8 @@
  * 分割代入
  */
 // const myProfile = {
-//   name: "aaa",
-//   age:28,
+//        name: "aaa",
+//        age:28,
 // };
 // const message1 = `名前は${myProfile.name}です。年齢は${myProfile.age}歳です。`;
 // console.log(message1);
